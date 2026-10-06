@@ -1,0 +1,8 @@
+{
+  "name": "Apdova ChatbotForge",
+  "description": "An educational AI tool by Apdova that helps beginners and workshop students build custom, production-grade AI chatbot prompts for Google AI Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
